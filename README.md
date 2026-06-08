@@ -1,4 +1,4 @@
-# Water Quality Data for Atmospheric–Riverine Compound Heatwaves
+# Water quality data for atmospheric–riverine compound heatwaves
 
 This repository provides observational water quality datasets used in the atmospheric–riverine compound heatwaves study across rivers in the United States (US) and Central Europe (CE).
 
